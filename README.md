@@ -5,7 +5,7 @@ PatchContext is an AI-powered Retrieval-Augmented Generation (RAG) application t
 ## 🚀 Features
 
 * Semantic search using **FAISS**
-* High-quality embeddings with **BAAI/bge-small-en-v1.5**
+* High-quality embeddings with **sentence-transformers/all-MiniLM-L6-v2**
 * AI-powered answers using **Google Gemini**
 * Retrieval from GitHub:
 
